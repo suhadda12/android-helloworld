@@ -1,0 +1,27 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.example.helloworld'           // ✅ WAJIB sejak AGP 8.0
+    compileSdkVersion 33
+
+    defaultConfig {
+        applicationId "com.example.helloworld"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    // Tambahkan dependency kalau diperlukan
+}

@@ -1,0 +1,7 @@
+#Tue Jun 17 09:57:33 UTC 2025
+base.1=/home/ubuntu/Android/HelloWorldApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+path.1=6/classes.dex
+base.0=/home/ubuntu/Android/HelloWorldApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

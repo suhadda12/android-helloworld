@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.helloworld"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:5:5-24:19
+12        android:allowBackup="true"
+12-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:7:9-35
+13        android:debuggable="true"
+14        android:icon="@android:drawable/btn_star"
+14-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:8:9-50
+15        android:label="Hello World App"
+15-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:6:9-40
+16        android:roundIcon="@android:drawable/btn_star"
+16-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:9:9-55
+17        android:supportsRtl="true"
+17-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:10:9-35
+18        android:theme="@android:style/Theme.Material.Light" >
+18-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:11:9-60
+19        <activity
+19-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:13:9-22:20
+20            android:name="com.example.helloworld.MainActivity"
+20-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:14:13-41
+21            android:exported="true" >
+21-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:15:13-36
+22            <intent-filter>
+22-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:17:13-20:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:18:17-69
+23-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:18:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:19:17-77
+25-->/home/ubuntu/Android/HelloWorldApp/app/src/main/AndroidManifest.xml:19:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

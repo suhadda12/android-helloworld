@@ -1,0 +1,7 @@
+com.example.helloworld.app-pngs-0 /home/ubuntu/Android/HelloWorldApp/app/build/generated/res/pngs/debug
+com.example.helloworld.app-resValues-1 /home/ubuntu/Android/HelloWorldApp/app/build/generated/res/resValues/debug
+com.example.helloworld.app-packageDebugResources-2 /home/ubuntu/Android/HelloWorldApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.helloworld.app-packageDebugResources-3 /home/ubuntu/Android/HelloWorldApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.helloworld.app-merged_res-4 /home/ubuntu/Android/HelloWorldApp/app/build/intermediates/merged_res/debug
+com.example.helloworld.app-debug-5 /home/ubuntu/Android/HelloWorldApp/app/src/debug/res
+com.example.helloworld.app-main-6 /home/ubuntu/Android/HelloWorldApp/app/src/main/res

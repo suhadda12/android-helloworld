@@ -1,0 +1,1 @@
+/home/ubuntu/Android/HelloWorldApp/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat 
